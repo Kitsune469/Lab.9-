@@ -1,0 +1,10 @@
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\bin\Debug\Lab.9.exe.config
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\bin\Debug\Lab.9.exe
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\bin\Debug\Lab.9.pdb
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.AssemblyReference.cache
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab._9.Form1.resources
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab._9.Properties.Resources.resources
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.GenerateResource.cache
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab.9.csproj.CoreCompileInputs.cache
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab.9.exe
+E:\Kitsunya\Bursa\LMV\Lab.9\Lab.9\obj\Debug\Lab.9.pdb
